@@ -10,7 +10,7 @@ Nome do Projeto: Academia Virtual.<br>
 Interface: Site em breve <br>
 Site completo: Em breve.<br>
 Códigos: Código em breve.<br>
-Função: Simular uma Academia virtual mostrar treinos e alimentações.<br>
+Função: Simular uma Academia virtual, indica treinos e alimentações.<br>
 Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 
 
