@@ -2,8 +2,6 @@
 
 <br>
 
-**Mais informações em breve**
-
 Nome do Projeto: Academia Virtual.<br>
 Interface: Site em breve <br>
 Site completo: Em breve.<br>
