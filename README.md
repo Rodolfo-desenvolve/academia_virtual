@@ -1,7 +1,5 @@
 <h1>2° Projeto portfólio.</h1>
 
-**Descrição do projeto:**
-
 <br>
 
 **Mais informações em breve**
