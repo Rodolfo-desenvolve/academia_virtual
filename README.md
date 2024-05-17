@@ -1,7 +1,5 @@
 <h1>2° Projeto portfólio.</h1>
 
-<br>
-
 Nome do Projeto: Academia Virtual.<br>
 Interface: Site em breve <br>
 Site completo: Em breve.<br>
