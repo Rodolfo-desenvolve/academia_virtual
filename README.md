@@ -6,6 +6,7 @@ Site completo: Em breve.<br>
 Códigos: Código em <a href='https://github.com/Rodolfo-desenvolve/academia_virtual/tree/main'>Academia Virtual Código</a>. <br>
 Função: Simular uma Academia virtual, indica treinos e alimentações.<br>
 Descrição: Interface front-end reponsiva, feita em html, css e javascripts.<br>
+Descrição²: Back-end desenvolvido em framework django.<br>
 
 <h2> Outros projetos;</h2>
 
