@@ -1,6 +1,6 @@
 <h1>2° Projeto portfólio.</h1><br>
 
-Nome do Projeto: Academia Virtual.<br>
+Titulo do Projeto: Academia Virtual.<br>
 Interface: Site em <a href='https://rodolfo-desenvolve.github.io/academia_virtual/'>Academia Virtual Site</a>.<br>
 Site completo: Em breve.<br>
 Códigos: Código em <a href='https://github.com/Rodolfo-desenvolve/academia_virtual/tree/main'>Academia Virtual Código</a>.<br>
@@ -10,4 +10,4 @@ Descrição²: Back-end desenvolvido em framework django.<br>
 
 <h2> Outros projetos;</h2><br>
 
- **click aqui ->** <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Histórico</a><br>
+ **click aqui :** <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Projetos desktop</a><br>
