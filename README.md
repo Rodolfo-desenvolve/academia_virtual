@@ -1,5 +1,4 @@
-<h1>2° Projeto portfólio:</h1><br>
-
+<h1>2° Projeto portfólio:</h1>
 
 Titulo do Projeto: Academia Virtual;<br>
 Interface: Site em <a href='https://rodolfo-desenvolve.github.io/academia_virtual/'>Academia Virtual Site</a>;<br>
