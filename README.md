@@ -11,4 +11,3 @@ Descrição²: Back-end desenvolvido em framework django;<br>
 <h2> Outros projetos:</h2><br>
 
  **click aqui:** <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Projetos-desktop</a>; <br>
- 
